@@ -4,12 +4,6 @@
   padding: 0;
 }
 
-body {
-  font-family: "DM Sans", sans-serif;
-  font-size: 18px;
-  background-color: hsl(27, 66%, 92%);
-}
-
 :root {
   --soft-red: hsl(10, 79%, 65%);
   --cyan: hsl(186, 34%, 60%);
@@ -20,4 +14,10 @@ body {
 
   --soft-red-hover: rgba(236, 119, 95, 0.6);
   --cyan-hover: rgba(118, 181, 188, 0.6);
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  background-color: var(--cream);
 }

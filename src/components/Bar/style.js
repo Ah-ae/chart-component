@@ -40,9 +40,27 @@ export const Bar = styled.div`
     text-align: center;
     visibility: ${(props) => props.visibility};
   }
+
+  @media screen and (max-width: 420px) {
+    margin: 0 0.3rem;
+    width: 2rem;
+    border-radius: 0.15rem;
+
+    &:before {
+      top: -2.6rem;
+      left: -1rem;
+      width: 3.5rem;
+      padding: 0.4rem;
+      z-index: 1;
+    }
+  }
 `;
 
 export const Label = styled.p`
   margin-top: 0.4rem;
   color: var(--medium-brown);
+
+  @media screen and (max-width: 420px) {
+    font-size: 0.8rem;
+  }
 `;

@@ -1,7 +1,14 @@
-import Bar from "./components/Bar";
+import MyBalance from "./components/MyBalance";
+import Spending from "./components/Spending";
+import "./App.css";
 
 function App() {
-  return <Bar label={"mon"} amount={31.07} />;
+  return (
+    <main className="main-wrapper">
+      <MyBalance />
+      <Spending />
+    </main>
+  );
 }
 
 export default App;
