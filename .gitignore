@@ -24,3 +24,4 @@ yarn-error.log*
 
 README-template.md
 style-guide.md
+/design

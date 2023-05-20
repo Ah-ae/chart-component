@@ -22,7 +22,7 @@ function Bar({ label, amount }) {
     thu: 4,
     fri: 5,
     sat: 6,
-    sun: 7,
+    sun: 0,
   };
   useEffect(() => {
     const today = new Date().getDay(); // 4 => thu
