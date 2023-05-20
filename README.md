@@ -16,13 +16,13 @@ Users should be able to:
 
 ### Screenshot
 
-**Desktop view**
+Desktop view
 <img width="1732" alt="스크린샷 2023-05-20 오전 10 11 08" src="https://github.com/Ah-ae/faq-accordion-card/assets/115610668/8bba2b2a-8059-4414-b75c-06184b99a67b">
 <img width="1732" alt="스크린샷 2023-05-20 오전 10 10 51" src="https://github.com/Ah-ae/faq-accordion-card/assets/115610668/cc43c2d9-2329-491a-a234-382f52587ac4">
 
-**Mobile view**
-<img width="375" alt="mobile screenshot image" src="https://github.com/Ah-ae/faq-accordion-card/assets/115610668/9282b4bb-0eb6-497a-bd75-ba7df8440d08">
+Mobile view
 
+<img width="375" alt="mobile screenshot image" src="https://github.com/Ah-ae/faq-accordion-card/assets/115610668/9282b4bb-0eb6-497a-bd75-ba7df8440d08">
 <img width="375" alt="mobile screenshot image" src="https://github.com/Ah-ae/faq-accordion-card/assets/115610668/bba59256-7429-4e8e-adc6-0d5914544ba8">
 
 ### Links
