@@ -11,7 +11,8 @@ function Bar({ label, amount }) {
   };
 
   const calculateHeight = (amount) => {
-    return `${amount * 3.6}px`;
+    const HEIGHT_MULTIPLIER = 3.6;
+    return `${amount * HEIGHT_MULTIPLIER}px`;
   };
 
   const [isToday, setIsToday] = useState(false);
